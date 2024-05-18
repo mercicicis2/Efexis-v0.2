@@ -59,7 +59,7 @@ width: 180px;
 height: 100%;
 border: 1px solid rgb(255, 0, 212);
 
-background-image: url(/img/logo.svg);
+background-image: url(../img/logo.svg);
 background-size: 90%;
 background-repeat: no-repeat;
 background-position: center;
